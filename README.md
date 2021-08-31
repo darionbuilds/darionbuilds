@@ -2,7 +2,7 @@
 
 I'm currently a student at Hack Reactor's Software Engineering Immersive program. I've been playing and building with various SQL and non-SQL DBMS in conjunction with express, React, and Nodejs. 
 
-I'm hungry for more, and have a keen interest in artificial intelligence, neural networks, and machine learning. If you're wondering "why didn't I go with data science and Python first?", it's because I've spent the last ~12 years working solely in customer service, and wanted to get my foot into the door of the world of programming. My interests went from things I watched YouTube videos of and saw on the news, to something that I'm actively working to achieve and grow with. I dream of being the difference, and ushering in the future of technology.
+I'm hungry for more, and have a keen interest in artificial intelligence, neural networks, and machine learning. If you're wondering "why didn't I go with data science and Python first?", it's because I've spent the last ~12 years working solely in customer service, and wanted to get my foot into the door of the world of programming. My interests went from things I watched YouTube videos of and saw on the news, to something that I'm actively working to achieve and grow with. I dream of being the difference, and doing my part to usher in the future of technology.
 
 - 🌱 I’m currently learning Python and machine learning principles
 - 💬 Ask me about Discord server configuration or what games I'm playing! (I love to talk shop about code too!)
