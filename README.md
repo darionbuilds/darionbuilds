@@ -10,7 +10,7 @@ I'm hungry for more, and have a keen interest in artificial intelligence, neural
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm reading 47 ongoing manga, concurrently! We definitely have some in common if you read it too!
 
-## I'm confident enough with these to let you know I they're in my repertoire:
+## I'm confident enough with these to let you know they're in my repertoire:
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
