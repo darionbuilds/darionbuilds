@@ -1,6 +1,6 @@
 ### Hi there, I'm Darion! 👋
 
-I'm currently a Tech Support Engineer at Adyen, and a Hack Reactor alumnus. I've contributed to a several JS/TS applications, and am currently working on a few solo projects for video games I enjoy.
+I'm currently a Tech Support Engineer at Adyen, and a Hack Reactor alumnus. I've contributed to several JS/TS applications and am currently working on a few solo projects for video games I enjoy.
 
 I'm always hungry for more, and have a keen interest in artificial intelligence, neural networks, and machine learning. If you're wondering "why didn't I go with data science and Python first?", it's because I've spent the last ~12 years working solely in customer service, and wanted to get my foot into the door of the world of programming. Web Dev seemed more approachable at the time - and there's always room to learn more. My interests went from things I watched YouTube videos of and saw on the news, to something that I'm actively working to achieve and grow with. I dream of being the difference, and doing my part to usher in the future of technology.
 
