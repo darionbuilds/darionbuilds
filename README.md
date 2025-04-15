@@ -1,6 +1,11 @@
 ### Hi there, I'm Darion! 👋
 
-- 🌱 I currently work in JS/TS and I’m learning Java with a focus on backend and web services
-- 💬 Ask me about Discord bots or how/which games taught me how to code!
-- 📫 How to reach me: darionjwilliams@gmail.com or deep on Discord
+- 🌱 Currently working in JavaScript/TypeScript and learning Java — focused on backend and web services
+- 🤖 Building Discord bots and developing tools that blend automation with care
+- 🌿 Side projects include a plant growth tracker with AI-based timeline adjustments and push notifications
+- 🎮 Gamer at heart — games taught me how to code and continue to influence how I solve problems
+- 💬 Ask me about building useful bots, sustainable dev workflows, or debugging complex integrations
+- 📫 Reach me at darionjwilliams@gmail.com or message `deep` on Discord (DMs open to message requests)
 - 😄 Pronouns: He/Him
+
+---
